@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"base" "base"
+	"title" "Scrat's Zombie SWEP tester"
+	"maps" "^gm_"
+	"menusystem" "1"
+	
+	
+}
